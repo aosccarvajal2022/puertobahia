@@ -1,0 +1,32 @@
+{
+	"dateApplication":"2022-07-29",
+	"suggestedDate":"2022-07-30",
+	"email":"sss",
+	"applicantId":"11111",
+	"applicantName":"Angela Ochoa",
+	"customerNIT":"1226630",
+	"agencyNIT":"2566",
+	"remarks":"tomalo",
+	"radicado":"",
+	"requestNumber":"asssd",
+	"status":"creado",
+	"people":[
+	{
+		"identification":"12330",
+		"name":"WIlneld",
+		"company":"SPPB"
+		
+	}],
+	"services":[
+	{
+		"code":"c20",
+		"serviceName":"toma de impronta",
+		"amountService":"3",
+		"items":[
+            {
+			"NIUC": "string",
+			"lineItem": "string",
+			"VINReferenceSerie": "string"			 
+		    }]
+	}]
+}

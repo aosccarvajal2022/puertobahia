@@ -1,0 +1,36 @@
+{
+    "nitCustomAgency": "test",
+    "nitCustomer": "test",
+    "nitOfficial": "test",
+    "official": "test",
+    "nitOfficialAuthorized": "test",
+    "officialAuthorized": "test",
+    "modalityOperation": "test",
+    "nitTransportCompany": "test",
+    "typeOperation": "test",
+    "replyEmail": "test",
+    "observation": "test",
+    "radicado": "test",
+    "requestNumber": "test",
+    "drivers": [
+                    {
+                        "placaCabezote": "",
+                        "placaRemolque": "",
+                        "codigoEjes": "",
+                        "driverId": "",
+                        "destination": "",
+                        "suggestedDate": "",
+                        "suggestedTime": "",
+                        "cargoManifest": "",
+                        "cycle": "",
+                        "itemsToRemove": [
+                            {
+                                "NIUC": "123456",
+                                "VINReference": "123456",
+                                "lineItem": "",
+                                "quantity": "40"
+                            }
+                        ]
+                    }
+                ]
+}
